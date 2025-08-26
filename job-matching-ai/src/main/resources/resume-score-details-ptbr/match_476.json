@@ -1,0 +1,77 @@
+{
+  "job_description": "## Engenheiro elétrico júnior na [Innovative Power Solutions Inc.]  \n\n** Localização: ** Remoto \n\n** Resumo do trabalho: **  \nJunte -se à nossa equipe dinâmica da Innovative Power Solutions Inc. como engenheiro elétrico júnior. Nesta função, você apoiará o desenvolvimento e a implementação de soluções de energia solar sustentável e eficiente. Estamos procurando um engenheiro entusiasmado ansioso para contribuir com nossa equipe através da aprendizagem e inovação.  \n\n** Responsabilidades -chave: **  \n- Auxiliar na projeção e implementação de sistemas de energia solar usando ferramentas como MATLAB e Helioscópio.  \n- Participe ativamente das sessões de treinamento para entender os processos de geração e distribuição de energia.  \n- Apoiar engenheiros seniores em gerenciamento de projetos e análises de eficiência energética.  \n- Realize a viabilidade e as análises de desempenho sob orientação.  \n- Colabore com os membros da equipe para garantir o sucesso do projeto e a conformidade de segurança operacional.\n\n** Habilidades -chave: **  \n- Proficiência no MATLAB e Helioscópio para design do sistema solar.  \n- Fortes habilidades de comunicação e trabalho em equipe.  \n- Disposição de aprender e se adaptar a novos desafios.  \n- Compreensão básica das ferramentas de gerenciamento de projetos.\n\n** Qualificações: **  \n- Bacharel em Engenharia Elétrica (concluída ou no último ano).  \n- Experiência anterior em estágio em sistemas de energia ou energia renovável é uma vantagem, mas não é necessária.",
+  "additional_info": "A empresa valoriza a diversidade em origens educacionais e considera candidatos de todas as universidades credenciadas. As opções de trabalho remotas estão disponíveis; No entanto, o suporte à realocação não é fornecido. Habilidades e proficiência técnica são avaliadas através de uma combinação de avaliações on -line e entrevistas virtuais. Nós nos concentramos na capacidade do candidato de aprender novas tecnologias e integrar -se à nossa cultura de equipe.",
+  "resume": "Zainab Ashraf  \n+92 323- 9940741 • zynabawan89@gmail.com  \n• Lahore, Paquistão | LinkedIn.com/in/zainab-ashraf -4a9143235   \nObjetivo  \nEngenheiro elétrico fresco com uma atitude motivada e uma vontade de sincronizar o conhecimento, \nA exposição profissional e técnica é de se destacar em meus objetivos de carreira.  \nEducação   \nLAHORE COLLEGE F OU MULHERES Universidade, Lahore 2020 - 2024  \nB.Sc. em engenharia elétrica (3.19 /4) (Grau: B)  \nGrupo Punjab de Faculdades, Lahore 2018 - 2020   \nF.Sc. em pré -engenharia (nota: a)  \nExperiência de trabalho   \nEngenheiro Estagiário do Conselho de Pesquisa Científica e Industrial do Paquistão (PCSIR)  \n1º de junho de 2022 - 30 de julho de 2022  \n Medidas de energia elétrica, tempo e frequência aprendidas  \n Metrologia aplicada e científica em equipamentos industriais para calibração precisa  \n Estudou e praticamente observou a calibração e as medidas do equipamento elétrico  \nusando padrões IEEE  \n Aprendeu todos os tipos de testes de cabo antes e depois da compressão usando testes industriais \npadrões  \nProjetos  \nProjeto do ano final (Smart Hybrid WHE EELCHAIR Usando gestos com as mãos) \n Desenvolveu uma cadeira de rodas híbrida inteligente que integra a tecnologia avançada de sensores e \nautomação. Mobilidade e independência aprimoradas para os usuários. \n Modos manuais e automatizados em destaque para adaptabilidade ideal e facilidade de uso. \nOutros projetos  \nMáquina ATM usando RFID | Jogo tic-tac-toe | Automação de água vegetal | Circuito de alarme de incêndio \nusando Arduino   \nHabilidades  \n Habilidades técnicas: MS Office, AutoCAD, Arduino IDE, Matlab, Visual Studio, \nLabview, Multisim, Simulink, Serenata, Proteus  \n Soft Skills: Habilidades de apresentação, trabalho em equipe, redação de relatórios  \n Habilidades pessoais: proativas e auto -motivadas, fortes habilidades interpessoais, fortes \nHabilidade de comunicação  \nAtividades extracurriculares  \n Ofriado como embaixador no evento do Conselho de Engenharia do Paquistão (PEC), todos \nUniversidades Punjab I Nnovation Expo 2024   \n Educação STEM como organizador no Lahore College F ou Women University (LCWU)  \n Ofriou como embaixador no Instituto de Engenheiros Civis (ICE), estudante UET Lahore",
+  "details": {
+    "name": "Zainab Ashraf",
+    "number": "923239940741",
+    "skills": [
+      "MS Office",
+      "AutoCAD",
+      "Arduino IDE",
+      "Matlab",
+      "Visual Studio",
+      "Labview",
+      "Multisim",
+      "Simulink",
+      "Serenata",
+      "Proteus"
+    ],
+    "email_id": "zynabawan89@gmail.com",
+    "location": "Lahore, Paquistão",
+    "projects": [
+      {
+        "title": "Cadeira de rodas híbrida inteligente usando gestos manuais",
+        "description": "Desenvolveu uma cadeira de rodas híbrida inteligente que integra a tecnologia e a automação avançadas de sensores."
+      },
+      {
+        "title": "Máquina ATM usando RFID",
+        "description": "Desenvolveu uma máquina ATM utilizando a tecnologia RFID."
+      },
+      {
+        "title": "Jogo tic-tac-toe",
+        "description": "Criou um jogo de tic-tac-toe."
+      },
+      {
+        "title": "Automação de água vegetal",
+        "description": "Implementou um sistema de automação de rega planta."
+      },
+      {
+        "title": "Circuito de alarme de incêndio usando arduino",
+        "description": "Projetou um circuito de alarme de incêndio usando Arduino."
+      }
+    ],
+    "education": [
+      {
+        "end_date": "06-2024",
+        "university": "LAHORE COLLEGE PARA MULHERES Universidade, Lahore",
+        "degree_title": "B.Sc. em engenharia elétrica"
+      },
+      {
+        "end_date": "06-2020",
+        "university": "Grupo de Faculdades Punjab, Lahore",
+        "degree_title": "F.Sc. em engenharia pré -engenharia"
+      }
+    ],
+    "achievements": [],
+    "publications": [],
+    "certifications": [],
+    "additional_urls": [
+      {
+        "url": "LinkedIn.com/in/zainab-ashraf-4a9143235",
+        "website_name": "LinkedIn"
+      }
+    ],
+    "executive_summary": "Zainab Ashraf é um engenheiro elétrico fresco, com forte experiência técnica e experiência prática em vários projetos de engenharia. Ela desenvolveu soluções inovadoras, como uma cadeira de rodas híbrida inteligente e tem proficiência em várias ferramentas de software de engenharia.",
+    "employment_history": [
+      {
+        "details": "Medições elétricas, de tempo e frequência aprendidas; Metrologia científica aplicada em equipamentos industriais para calibração precisa; Estudou e praticamente observou a calibração e as medições de equipamentos elétricos usando padrões IEEE; Aprendeu todos os tipos de testes de cabo antes e depois da compressão usando os padrões de teste industrial.",
+        "end_date": "07-2022",
+        "location": "Conselho do Paquistão de Pesquisa Científica e Industrial (PCSIR)",
+        "job_title": "Engenheiro estagiário",
+        "start_date": "06-2022",
+        "company_name": "Conselho do Paquistão de Pesquisa Científica e Industrial (PCSIR)"
+      }
+    ]
+  }
+}
