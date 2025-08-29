@@ -25,6 +25,8 @@ public interface ClassificadoCandidatoVaga {
         5. Fornecer uma explicação detalhada de como o score foi calculado, destacando pontos fortes e fracos do candidato em relação à vaga.
 
         Sempre baseie sua análise exclusivamente nos dados reais do candidato e da vaga. Não invente informações e seja conciso e claro na resposta.
+        
+        IMPORTANTE: Seja objetivo e responda na primeira frase se o candidato é apto para vaga
     """)
     @UserMessage("Avalie a compatibilidade entre a vaga ID: {{vagaId}} e o candidato ID: {{candidatoId}}")
     String avaliarCompatibilidade(@V("vagaId") String vagaId, @V("candidatoId") String candidatoId);
