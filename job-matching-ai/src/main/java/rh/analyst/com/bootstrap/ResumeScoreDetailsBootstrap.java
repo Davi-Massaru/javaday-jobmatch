@@ -40,26 +40,31 @@ public class ResumeScoreDetailsBootstrap {
     private static final Logger LOG = Logger.getLogger(ResumeScoreDetailsBootstrap.class);
 
     void onStart(@Observes StartupEvent ev) {
-        LOG.info("[BOOTSTRAP] ResumeScoreDetailsBootstrap iniciado...");
-
-        // Limpa coleções
-        resumeScoreDetailsRepository.clear();
-        vagaRepository.deleteAll();
-        candidatoRepository.deleteAll();
-
-        Path resourceDir = Paths.get("src/main/resources/resume-score-details-ptbr");
-        if (!Files.exists(resourceDir)) {
-            LOG.error("[ERRO] Diretório não encontrado: " + resourceDir.toAbsolutePath());
-            return;
-        }
-
         try {
-            Files.list(resourceDir)
-                    .filter(path -> path.toString().endsWith(".json"))
-                    .forEach(this::processFile);
-        } catch (IOException e) {
-            LOG.error("Erro ao listar arquivos do diretório", e);
+            LOG.info("[BOOTSTRAP] ResumeScoreDetailsBootstrap iniciado...");
+
+            // Limpa coleções
+            resumeScoreDetailsRepository.clear();
+            vagaRepository.deleteAll();
+            candidatoRepository.deleteAll();
+
+            Path resourceDir = Paths.get("src/main/resources/resume-score-details-ptbr");
+            if (!Files.exists(resourceDir)) {
+                LOG.error("[ERRO] Diretório não encontrado: " + resourceDir.toAbsolutePath());
+                return;
+            }
+
+            try {
+                Files.list(resourceDir)
+                        .filter(path -> path.toString().endsWith(".json"))
+                        .forEach(this::processFile);
+            } catch (IOException e) {
+                LOG.error("Erro ao listar arquivos do diretório", e);
+            }
+        } catch (Exception e) {
+             LOG.error("Erro ao listar arquivos do diretório", e);
         }
+      
     }
 
     private void processFile(Path path) {
